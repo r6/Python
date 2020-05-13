@@ -1,8 +1,11 @@
 # Python 🐍
 Learning Python, Collection of Python scripts. 🌠
+
+# Website
+https://python.org
  
 # Learning
-https://www.python.org/
+https://docs.python.org/3/
 
 https://www.w3schools.com/python/default.asp
 
@@ -13,6 +16,12 @@ https://developers.google.com/edu/python
 https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 https://realpython.com/
+
+# Developer's Guide
+https://devguide.python.org
+
+# Issue tracker
+https://bugs.python.org
 
 # Learning Videos
 https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
